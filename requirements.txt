@@ -2,3 +2,5 @@ Flask==2.3.2
 flask-cors==3.0.10
 firebase-admin==6.3.0
 textblob==0.17.1
+transformers==4.41.1
+torch
